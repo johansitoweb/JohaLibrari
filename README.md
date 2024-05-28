@@ -7,5 +7,7 @@ https://pickled-walrus-4a0.notion.site/JohaLibrari-bb350c9699ee4e569c1f97d24a194
 Techologias y herramientas que se utilizo para Desarrollar este proyecto.
 js html css bootstrap nes.css y una pequeña libreria de javascript
 
+visita la pagina oficial
+
 
 	
