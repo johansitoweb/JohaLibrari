@@ -9,5 +9,11 @@ js html css bootstrap nes.css y una pequeña libreria de javascript
 
 visita la pagina oficial
 
+https://segunda-partelibreria.vercel.app/
+
+pagina de codigo 
+
+https://pickled-walrus-4a0.notion.site/codigo-12c0ed9806a743f1a716457f4916fa1a
+
 
 	
